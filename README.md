@@ -1,6 +1,6 @@
 # Model Fitting Code
 
-This repository includes the code used for model fitting in de Jong et al. 2024 (link to be included)
+This repository includes the code used for model fitting in [de Jong et al. 2024](https://www.nature.com/articles/s41593-023-01547-6)
 
 ### Figure 3
 Rescorla-Wagner.m - MATLAB code used for fitting a model to data obtained during a two-armed bandit task.
