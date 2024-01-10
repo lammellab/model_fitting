@@ -5,6 +5,8 @@
 % - vecWinLose: rewarded or not (0 = time-out, 1 = rewarded)
 % - vecLeft: value of left nosepoke hole
 % - vecRight: value or right nosepoke hole
+%
+% Author: Jeroen P.H. Verharen, PhD (UC Berkeley)
 
 clear all
 clc
